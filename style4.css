@@ -1,0 +1,38 @@
+body{
+	background-color:ivory;
+	font-family:"Source sans Pro", Calibri, Tohama, sans-serif;
+}
+
+h1{
+	text-align:center;
+	text-decoration:underline;
+	color:#096A09;
+}		
+
+.info{
+	color:white;
+	font-size:21px
+}
+		
+.photo{
+	float:right;
+	position:relative;
+	right:30px;
+	bottom:350px;
+}
+
+.photo2{
+	float:right;
+	position:relative;
+	left:190px;
+	bottom:0px;
+}
+
+h2{
+	font-size:30px;
+	color:#096A09;
+	border-bottom:3px solid #096A09;
+	text-align:left;
+	font-style:oblique;
+}
+

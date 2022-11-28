@@ -1,0 +1,44 @@
+body{
+	background-color:ivory;
+	font-family:"Source sans Pro", Calibri, Tohama, sans-serif;
+}
+
+h2{
+	font-size:28px;
+	color:#660099;
+	border-bottom:3px solid #660099;
+	text-align:left;
+	font-style:italic;
+}
+
+h1{
+	text-align:center;
+	text-decoration:underline;
+	color:#660099;
+	font-style:oblique;
+}
+
+.photo{
+	float:right;
+	position:relative;
+	bottom:300px;
+}
+
+.photo2{
+	float:right;
+	position:relative;
+	top:10px;
+	right:350px;
+}
+
+.jeux{
+	color:black;
+	font-size:21px;
+	margin-bottom: 200px;
+}
+
+
+
+
+
+	
